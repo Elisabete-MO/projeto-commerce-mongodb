@@ -1,13 +1,13 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# :hamburger: Projeto Commerce :game_die:
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+(individual - data de entrega 25/04/2023)
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Esse projeto me deu a oportunidade de aprofundar meus conhecimentos em manipulação de dados organizados em arrays em um banco. Através de updates, fui capaz não só de atualizar esses arrays, mas também de inserir novos dados, utilizando os operadores do MongoDB. As queries que eu desenvolvi retornaram exatamente os atributos e a quantidade de documentos esperados, dentro do que foi pedido. Estou animada para aprender mais sobre o MongoDB e como utilizá-lo em projetos futuros!
+
+O objetivo desse projeto foi:
+-  Alterar documentos utilizando métodos de update com operadores simples;
+-  Alterar documentos utilizando operadores complexos e modificadores;   
+- Construir  _queries_  e expressões complexas utilizando índices textuais e expressões regulares.
+
+:rotating_light: - a pasta `challenges` contem os arquivos desenvolvidos por mim. As demais pastas contem arquivos desenvolvidos pela Trybe.
+>Este é um projeto do curso de Desenvolvimento Web Full Stack da Trybe. :rocket: :green_heart:
